@@ -1,5 +1,8 @@
-# IslandsInterface
+# Islands Interface
 
+Project from the [Educative](https://www.educative.io) course [Functional Web Development with Elixir, OTP and Phoenix](https://www.educative.io/courses/functional-web-development-elixir-otp-phoenix).
+
+----
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
